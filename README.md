@@ -15,11 +15,13 @@ Course Code: CSE0001
 
 University: VIT Bhopal University
 
-#Project Overview
+
+# Project Overview
 
 This project was completed as part of the Digital Literacy course. The objective is to understand and apply essential digital skills such as online safety, professional communication, and use of digital platforms. The project is organized into five tasks covering different aspects of digital literacy.
 
-#Task Summary
+
+# Task Summary
 
 Task 1 – Infographic
 
